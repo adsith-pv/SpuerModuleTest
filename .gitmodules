@@ -1,0 +1,3 @@
+[submodule "SubModuleTest"]
+	path = SubModuleTest
+	url = https://github.com/adsith-pv/SubModuleTest.git
