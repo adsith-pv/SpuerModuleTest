@@ -6,7 +6,9 @@ namespace TestSuperRepo
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            var cont = new Contract();
+            Console.WriteLine(cont.ContractNumber());
+            Console.ReadLine();
         }
     }
 }
